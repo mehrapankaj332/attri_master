@@ -1,0 +1,22 @@
+{
+  "home": {
+    "name": "Home",
+    "route": "/"
+  },
+  "cf357a66-7320-4f0c-a7f1-674ec7a0da38": {
+    "name": "About",
+    "route": "/About"
+  },
+  "35646049-a318-4fd2-b679-39ae6fe470ff": {
+    "name": "Pages",
+    "route": "/Pages"
+  },
+  "e870e036-6a58-4755-8bbe-b7fc9fef5f02": {
+    "name": "Menu",
+    "route": "/Menu"
+  },
+  "a0db19d1-2abf-4c67-a931-b34907f4e2f2": {
+    "name": "Cart",
+    "route": "/Cart"
+  }
+}
